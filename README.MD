@@ -1,4 +1,4 @@
-# QuanysBlog
+# QuanyBlog
 
 个人博客系统，基于 Spring Boot + Vue 3 构建的前后端分离项目。
 
